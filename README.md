@@ -1,3 +1,3 @@
 # how-to-train-your-typer
 
-Typing speed training app
+Typing speed training app using open AI backend
