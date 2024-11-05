@@ -8,7 +8,7 @@ app.use(express.json());
 
 // Initialize the OpenAI API client
 const openai = new OpenAI({
-    apiKey: "I'm not showing you my OpenAI key", // Replace with your OpenAI API key
+    apiKey: "I'm not showing you my OpenAI API key", // Replace with your OpenAI API key
 });
 
 // Endpoint to generate a prompt
