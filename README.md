@@ -54,8 +54,3 @@ Feel free to fork the repository and submit a pull request for any feature sugge
 
 ---
 
-Enjoy honing your typing skills with dynamically generated prompts from **How to Train Your Typer** and OpenAI! If you have questions or suggestions, reach out anytime. Happy typing!
-
---- 
-
-This integration description highlights how OpenAI dynamically generates practice prompts and enhances the typing training experience.
